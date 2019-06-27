@@ -1,5 +1,5 @@
-# KT-AWS-EKS-W26
-DF VP TPM Knowledge Transfer Session on AWS EKS
+#
+AWS EKS
 * **1. Clone this repo**
     * $ git clone 
 * **2. Create IAM Role**
